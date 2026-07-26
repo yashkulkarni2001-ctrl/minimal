@@ -2,122 +2,35 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Yash Pramod Kulkarni
 
-[Link to another page](./another-page.html).
+Automation, Embedded Systems, IoT & Machine Learning enthusiast, with a strong interest in **Computer Vision / Machine Vision** and **Robotics**.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Skills
 
-# Header 1
+- Data Analysis
+- Embedded Systems
+- ROS (Robot Operating System)
+- Automation
+- IoT
+- Sensors
+- Machine Learning
+- MySQL
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Global Robotics & Automation Adoption Analysis (2015–2035)
+Analyzed adoption trends of robotics and automation across 20+ countries and domains (Manufacturing, Warehouse, Underwater, Healthcare) using a structured dataset.
 
-### Header 3
+[View on GitHub](https://github.com/yashkulkarni2001-ctrl)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Contact
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- **LinkedIn:** [Yash Kulkarni](https://www.linkedin.com/in/yash-kulkarni-889b44209/)
+- **GitHub:** [yashkulkarni2001-ctrl](https://github.com/yashkulkarni2001-ctrl)
